@@ -6,29 +6,37 @@
 
 ## 01/01/2021
 
-### Notes 
+**Notes**
+
 I learned the basic structure of an html page.
 
-### Progess
+**Progess**
+
 I started building a basic webpage on CodePen 
 
-### Link to Code
-[HTML example page](https://codepen.io/pen)
+**Link to Code**
 
-### Resources Used
+[My HTML example page on CodePen](https://codepen.io/pen)
+
+**Resources Used**
+
 [HTML Structure Info](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ---
 
 ## 01/02/2021
 
-### Notes 
+**Notes**
 
-### Progess
 
-### Link to Code
+**Progess**
 
-### Resources Used
+
+**Link to Code**
+
+
+**Resources Used**
+
 
 
 ---
