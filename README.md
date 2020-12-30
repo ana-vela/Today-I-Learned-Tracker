@@ -1,5 +1,5 @@
 
-![image](/til-tracker-banner.png)
+![image](/til-tracker-new.png)
 
 # Today I Learned Tracker
 
